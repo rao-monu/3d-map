@@ -1,0 +1,29 @@
+{
+  "name": "next14-ts-cesium-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.17.9",
+    "caniuse-lite": "^1.0.30001660",
+    "cesium": "^1.115.0",
+    "lodash": "^4.17.21",
+    "next": "14.1.4",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "copy-webpack-plugin": "^12.0.2",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.4",
+    "typescript": "^5"
+  }
+}
